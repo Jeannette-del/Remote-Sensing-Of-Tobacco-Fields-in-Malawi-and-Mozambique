@@ -4,7 +4,7 @@
 
   By using remote monitoring  and leveraging publicly available datasets, we want to differentiate and if possible classify different types of land surfaces in order to help identify areas that are more likely to include tobacco fields.
 
-## 2.Access satelitte imagery (sentine2A, landsat)
+## 2.Access satelitte imagery (sentinel2A, landsat)
 
   The instruction about how you can access and download the data from satellite, read on data.txt.
 
